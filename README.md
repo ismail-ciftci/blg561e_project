@@ -1,14 +1,5 @@
 # Ethereum Token Malice Prediction via Spatio-Temporal Graph Neural Networks
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
-[![PyTorch Geometric](https://img.shields.io/badge/PyG-2.3%2B-green.svg)](https://pyg.org/)
-[![PyG Temporal](https://img.shields.io/badge/PyG--Temporal-0.54%2B-lightgrey.svg)](https://pytorch-geometric-temporal.readthedocs.io/)
-[![Google BigQuery](https://img.shields.io/badge/Data-Google%20BigQuery-4285F4.svg)](https://cloud.google.com/bigquery)
-[![Status](https://img.shields.io/badge/Status-Concluded%20%2F%20Post--Mortem-critical.svg)](#technical-post-mortem)
-
----
-
 ## Overview
 
 This repository contains a pipeline for Ethereum ERC-20 token malice classification using Spatio-Temporal Graph Neural Networks (ST-GNNs).
